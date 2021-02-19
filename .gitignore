@@ -1,0 +1,29 @@
+# OS
+.directory
+.Trash-*
+.nfs*
+.DS_Store
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+.vscode/*
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.rej
+*.vi
+*.zip
+*~
