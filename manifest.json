@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "KanbanFlow+",
+    "version": "0.1",
+    "description": "Improvements for KanbanFlow",
+    "author": "Iván Barcia",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://kanbanflow.com/board/*"
+            ],
+            "js": [
+                "main.js"
+            ]
+        }
+    ],
+    "icons": {
+        "16": "icon-16w.png",
+        "48": "icon-48w.png",
+        "128": "icon-128w.png"
+    }
+}
