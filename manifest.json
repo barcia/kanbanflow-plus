@@ -1,8 +1,8 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "KanbanFlow+",
     "version": "0.1",
-    "description": "Improvements for KanbanFlow",
+    "description": "Adds small utilities and interface improvements to KanbanFlow boards",
     "author": "Iván Barcia",
     "content_scripts": [
         {
